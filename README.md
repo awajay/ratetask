@@ -1,5 +1,5 @@
 # Average rate API
-Average rate calculation API. API will return the response for the range of dates , for given origin and destination
+Average rate calculation API. API will return the response from the date_from to date_to for given origin and destination
 <h1> Steps for run </h1>
 1) clone repository <br>
 2) change DATABASE_URL value as per your environment <br>
