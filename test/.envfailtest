@@ -1,0 +1,3 @@
+DATABASE_URL=postgresql://postgres:wrongpass@localhost:5432/postgres
+FLASK_DEBUG=0
+FLASK_APP=application
