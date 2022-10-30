@@ -25,9 +25,10 @@ Average rate calculation API. API will return the response from the date_from to
 &emsp;   pip install -r requirement.txt <br>
 7) to run app execute below command in command prompt <br>
 <b>&emsp;   flask run </b><br>
+<I>
 &emsp; if getting below line then your environment is working fine  <br>
  <b>&emsp; * Running on http://127.0.0.1:5000  </b> <br>
-
+</I>
 <b>To deactivate virtual environment use below command </b>
 <br>&emsp; venv\Scripts\deactivate.bat <br>
 
