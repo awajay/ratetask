@@ -8,7 +8,7 @@ There are three tables
 &emsp; 2. REGIONS <br>
 &emsp; 3. PRICES <br>
 <br>
-Required column are you can know from sql queries.
+Required columns you can know from sql queries.
 <br>
 <h1> Steps for run </h1>
 1) clone repository <br>
