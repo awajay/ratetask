@@ -1,5 +1,15 @@
 # Average rate API
 Average rate calculation API. API will return the response from the date_from to date_to for given origin and destination
+<br>Requirement is to use sql query only in place of ORM. So that sql has been written to get data from database tables.
+<br>
+There are three tables
+<br>
+&emsp; 1. PORTS <br>
+&emsp; 2. REGIONS <br>
+&emsp; 3. PRICES <br>
+<br>
+Required column are you can know from sql queries.
+<br>
 <h1> Steps for run </h1>
 1) clone repository <br>
 2) change DATABASE_URL value as per your environment <br>
